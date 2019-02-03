@@ -1,2 +1,2 @@
-# media
-Official logo, graphics, and documents.
+# Media
+Official logo, graphics, and documents of CAADRIA.
